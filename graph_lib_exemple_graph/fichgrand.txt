@@ -1,0 +1,30 @@
+0 100.0 100 50 orignal.jpg
+1 100.0 300 50 oursnoir.jpg
+2 100.0 500 50 loupgris.jpg
+3 100.0 700 50 hibou.jpg
+4 100.0 100 250 oiseauchanteur.jpg
+5 100.0 300 250 renardroux.jpg
+6 100.0 500 250 chauvesourisbrune.jpg
+7 100.0 700 250 castor.jpg
+8 100.0 100 450 lievre.jpg
+9 100.0 300 450 insectes.jpg
+10 100.0 500 450 rongeurs.jpg
+11 100.0 700 450 vegetation.jpg
+0 11 0 10.0
+1 0 1 1.0
+2 11 1 5.0
+3 11 4 1.0
+4 11 7 5.0
+5 11 8 5.0
+6 11 9 1.0
+7 11 10 3.0
+8 10 5 5.0
+9 9 4 5.0
+10 8 5 2.0
+11 10 3 5.0
+12 8 3 1.0
+13 8 2 5.0
+14 5 2 1.0
+15 4 3 2.0
+16 7 2 2.0
+17 9 6 5.0

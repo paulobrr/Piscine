@@ -1,0 +1,16 @@
+0 100.0 200 100 baleinebleue.jpg
+1 100.0 400 100 orque.jpg
+2 100.0 200 300 leoparddesmers.jpg
+3 100.0 400 300 phoquecrabier.jpg
+4 100.0 600 300 calmar.jpg
+5 100.0 600 100 krill.jpg
+6 100.0 200 500 zooplancton.jpg
+7 100.0 400 500 phytoplancton.jpg
+0 7 5 2.0
+1 5 0 20.0
+2 5 3 10.0
+3 3 2 1.0
+4 7 6 1.0
+5 6 4 10.0
+6 4 2 3.0
+7 2 1 2.0

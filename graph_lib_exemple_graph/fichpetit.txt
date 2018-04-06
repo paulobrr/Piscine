@@ -1,0 +1,15 @@
+7
+6
+100 741 398 vegetation.jpg
+100 161 285 orignal.jpg
+100 91 74 oursnoir.jpg
+100 709 128 castor.jpg
+100 65 491 rongeurs.jpg
+100 445 539 hibou.jpg
+0 355 108 loupgris.jpg
+0 1 10
+1 2 1
+0 3 5
+3 6 2
+0 4 3
+4 5 5
